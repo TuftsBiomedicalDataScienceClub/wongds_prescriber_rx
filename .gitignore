@@ -87,8 +87,11 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# iPython Notebooks
 wongds_prescriber_rx.ipynb
-dataset_rx/prescriber-info.csv
-dataset_rx/overdoses.csv
-dataset_prescriber/roam_prescription_based_prediction.jsonl
-dataset_rx/opioids.csv
+
+# Datasets
+dataset_prescriber/
+dataset_rx/
+
