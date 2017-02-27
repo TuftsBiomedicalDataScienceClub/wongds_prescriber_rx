@@ -92,6 +92,7 @@ ENV/
 wongds_prescriber_rx.ipynb
 
 # Datasets
-dataset_prescriber/
-dataset_rx/
-
+dataset_rx/prescriber-info.csv
+dataset_rx/overdoses.csv
+dataset_prescriber/roam_prescription_based_prediction.jsonl
+dataset_rx/opioids.csv
