@@ -89,7 +89,7 @@ ENV/
 .ropeproject
 
 # iPython Notebooks
-wongds_prescriber_rx.ipynb
+#wongds_prescriber_rx.ipynb
 
 # Datasets
 dataset_rx/prescriber-info.csv
